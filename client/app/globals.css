@@ -10,3 +10,7 @@
     font-family: thin;
     src: url('../app/fonts/Vazir-Thin.ttf');
   }
+  @font-face {
+    font-family: eot;
+    src: url('../app/fonts/Vazir-Light.eot');
+  }
