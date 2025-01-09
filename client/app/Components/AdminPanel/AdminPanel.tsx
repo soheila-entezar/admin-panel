@@ -6,6 +6,7 @@ import Link from "next/link";
 function AdminPanel() {
   return (
     <div className="w-[100%] h-screen flex justify-center items-center ">
+      solyyyyyyyyyyyyy
       <div className="w-[95%] sm:w-[450px] h-[80%] md:h-[70%] shadow-md rounded-lg flex flex-wrap justify-center items-center my-4">
         <div className="w-[90%] sm:w-[80%] h-[15%] flex flex-wrap items-end">
           <h1 className="w-[100%] h-[45%] font-[bold] font-semibold text-[22px]">Sign in to account</h1>
